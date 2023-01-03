@@ -1,0 +1,58 @@
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+  
+      }
+  
+      .navbar {
+        width: 100%;
+        background-color: whitesmoke;
+        position: fixed;
+        top: 0;
+        z-index: 1000;
+        
+  
+      }
+      .navbar a{
+        padding: 50px;
+      }
+  
+      .op {
+        margin-right: 1px;
+        
+        padding: 0;
+        text-align: center;
+        width: auto;
+  
+      }
+  
+      .img {
+        width: 210px;
+        height: 250px;
+        padding: 10px;
+      }
+  
+      .container {
+        display: flex;
+  
+      }
+  
+      .myslides {
+        height: 600px;
+      }
+  
+      .footer {
+        background-color: black;
+        height: 150px;
+        text-align: center;
+  
+      }
+  
+      .footer a i {
+        color: white;
+        margin-top: 70px;
+  
+      }
+    
